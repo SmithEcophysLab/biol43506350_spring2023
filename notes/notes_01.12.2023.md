@@ -13,7 +13,7 @@
 3. Course structure, goals, and [syllabus](../Syllabus)
 4. Discussion of semester outlook
 5. [Course website](https://github.com/SmithEcophysLab/biol43506350_spring2023)
-	- - Mention [user_guide.md](../user_guide.md)
+	- Mention [user_guide.md](../user_guide.md)
 6. Finding and reading scientific literature
 7. Weekly topic discussion: pick weekly topics and choose topic leaders
 	- secret ballot that Nick will collate (pick your favorite!)
