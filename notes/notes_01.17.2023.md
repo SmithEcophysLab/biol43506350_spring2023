@@ -9,6 +9,7 @@
 1. Open time for questions on course structure and materials
 	- Mention [user_guide.md](../user_guide.md)
 	- Important Links doc up on Blackboard
+2. Announce topic leads and schedule
 3. Lecture: "What is Plant Ecophysiology?"
 	- [slides](../lecture_slides/slides_01.17.2023.pdf)
 4. Discussion of Chapin (2003) (Lead: Nick)
