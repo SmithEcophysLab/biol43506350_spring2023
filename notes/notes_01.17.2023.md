@@ -8,8 +8,9 @@
 ## Agenda
 1. Open time for questions on course structure and materials
 	- Mention [user_guide.md](../user_guide.md)
+	- Important Links doc up on Blackboard
 3. Lecture: "What is Plant Ecophysiology?"
-	- [slides](../Lecture_slides/slides_01.17.2023.pdf)
+	- [slides](../lecture_slides/slides_01.17.2023.pdf)
 4. Discussion of Chapin (2003) (Lead: Nick)
 	- slides embedded in today's lecture slides (see #3 above)
 5. Chat about class on Thursday
@@ -17,7 +18,7 @@
 
 ## Homework
 - Read Reich (2014). The full citation and link can be found in the 
-[Readings](../Readings) folder.
+[Readings](../readings) folder.
 	- complete reading feedback for Reich (2014)
 
 ## In-class notes
