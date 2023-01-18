@@ -5,10 +5,12 @@
 * Learn about large-scale plant trait research
 
 ## Agenda
-1. Check in out course materials
+1. Check in on course materials
 	- are links working okay?
 	- any issues accessing book, reading material, etc.
 2. Brief discussion of review papers
+	- [link to proposal rubric](../rubrics/review_proposal_rubric.md)
+	- [link to review paper and presentation rubric](../rubrics/review_rubric.md)
 3. Mini-quiz # 1 and discussion
 	- [link to miniquiz 1](../miniquizzes/miniquiz1_01.19.2023.md)
 4. Discussion of Reich (2014) (Lead: Nick)
