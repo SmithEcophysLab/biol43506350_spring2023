@@ -12,7 +12,7 @@
 	- [link to proposal rubric](../rubrics/review_proposal_rubric.md)
 	- [link to review paper and presentation rubric](../rubrics/review_rubric.md)
 3. Mini-quiz # 1 and discussion
-	- [link to miniquiz 1](../miniquizzes/miniquiz1_01.19.2023.md)
+	- [link to miniquiz 1](../miniquizzes/miniquiz1_01.19.2023.pdf)
 4. Discussion of Reich (2014) (Lead: Nick)
 	- [link to lecture slides](../lecture_slides/slides_01.19.2023.pdf)
 
