@@ -4,11 +4,11 @@
 - Discuss individual physiology across scales
 
 ## Agenda
-1. Mini-quiz 2
+1. Lecture on plant gas exchange basics
+	- [Link to slides](../lecture_slides/slides_01.24.2023.pdf)
+2. (time permitting) Mini-quiz 2
 	- [link to miniquiz](../miniquizzes/miniquiz2_01.26.2023.md)
-2. Time for questions and discussion about plant physiological processes
 3. Discussion of Wang (2022)
-4. Review paper brainstorm (who's got ideas?!?)
 
 ## Homework
 - Read Boardman (1977). The full citation and link can be found in the 

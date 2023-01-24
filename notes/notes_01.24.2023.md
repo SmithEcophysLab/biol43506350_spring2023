@@ -20,3 +20,4 @@
 ## In-class notes
 
 ## Post class notes
+- didn't end up having class due to the snow (will need to move things to Thursday)
