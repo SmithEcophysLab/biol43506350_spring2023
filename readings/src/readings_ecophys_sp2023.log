@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  20 JAN 2023 15:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  25 JAN 2023 08:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -358,41 +358,52 @@ Overfull \hbox (37.7173pt too wide) in paragraph at lines 70--71
 annurev . pp . 28 . 060177 . 002035$[] 
  []
 
+! Misplaced alignment tab character &.
+l.74 their signaling networks. Seminars in Cell &
+                                                  Developmental Biology 92, ...
 
-Overfull \hbox (25.37032pt too wide) in paragraph at lines 80--81
+? 
+
+Overfull \hbox (25.37032pt too wide) in paragraph at lines 75--76
+[][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / science / article 
+/ pii / S1084952117305748$[] 
+ []
+
+
+Overfull \hbox (25.37032pt too wide) in paragraph at lines 81--82
 [][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / science / article 
 / pii / S1360138503001365$[] 
  []
 
 [2]
-Overfull \hbox (37.7173pt too wide) in paragraph at lines 103--104
+Overfull \hbox (37.7173pt too wide) in paragraph at lines 104--105
 [][]$\T1/cmtt/m/n/12 https : / / www . annualreviews . org / doi / 10 . 1146 / 
 annurev . es . 21 . 110190 . 001123$[] 
  []
 
 [3]
-Overfull \hbox (8.2173pt too wide) in paragraph at lines 113--114
+Overfull \hbox (8.2173pt too wide) in paragraph at lines 114--115
 [][]$\T1/cmtt/m/n/12 https : / / esajournals . onlinelibrary . wiley . com / do
 i / full / 10 . 1890 / 06-[]2057 .
  []
 
 
-Overfull \hbox (37.7173pt too wide) in paragraph at lines 126--127
+Overfull \hbox (37.7173pt too wide) in paragraph at lines 127--128
 [][]$\T1/cmtt/m/n/12 https : / / www . annualreviews . org / doi / 10 . 1146 / 
 annurev . es . 03 . 110172 . 001531$[] 
  []
 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
  (./readings_ecophys_sp2023.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 157.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 157.
 Package rerunfilecheck Info: File `readings_ecophys_sp2023.out' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
  5801 strings out of 492649
@@ -411,7 +422,7 @@ fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2018/texmf-dist/fo
 nts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/
 helvetic/uhvro8a.pfb>
-Output written on readings_ecophys_sp2023.pdf (5 pages, 105390 bytes).
+Output written on readings_ecophys_sp2023.pdf (5 pages, 105568 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream
