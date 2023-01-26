@@ -7,7 +7,7 @@
 1. Lecture on plant gas exchange basics
 	- [Link to slides](../lecture_slides/slides_01.24.2023.pdf)
 2. (time permitting) Mini-quiz 2
-	- [link to miniquiz](../miniquizzes/miniquiz2_01.26.2023.md)
+	- [link to miniquiz](../miniquizzes/miniquiz2_01.26.2023.pdf)
 3. Discussion of Wang (2022)
 	- leads: Isa and Snehanjana
 

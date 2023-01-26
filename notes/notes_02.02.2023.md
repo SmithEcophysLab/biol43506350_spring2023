@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Miniquiz 3
-	- [link to miniquiz 3](../miniquizzes/miniquiz3_02.02.2023.md)
+	- [link to miniquiz 3](../miniquizzes/miniquiz3_02.02.2023.pdf)
 2. Discussion of Paik and Huq (2019)
 	- leads: Ricardo, Karsen, Elizabeth, Diamond, Jacob, Cameron
 
