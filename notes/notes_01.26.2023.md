@@ -9,10 +9,12 @@
 2. (time permitting) Mini-quiz 2
 	- [link to miniquiz](../miniquizzes/miniquiz2_01.26.2023.md)
 3. Discussion of Wang (2022)
+	- leads: Isa and Snehanjana
 
 ## Homework
 - Read Boardman (1977). The full citation and link can be found in the 
 [Readings](../readings) folder. The pdf can be found on BlackBoard.
+	- complete feedback
 - Keep thinking about your deliverable idea!
 
 ## In-class notes
