@@ -20,3 +20,5 @@
 ## In-class notes
 
 ## Post class notes
+- didn't have itme to finish slides (got to light and dark reactions)
+- didn't have time for mini-quiz
