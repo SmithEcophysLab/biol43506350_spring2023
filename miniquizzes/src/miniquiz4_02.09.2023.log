@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 FEB 2023 14:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 FEB 2023 10:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**readings_ecophys_sp2023.tex -o readings_ecophys_sp2023.pdf
-(./readings_ecophys_sp2023.tex
+**miniquiz4_02.09.2023.tex -o miniquiz4_02.09.2023.pdf
+(./miniquiz4_02.09.2023.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
@@ -202,25 +202,24 @@ Package: inputenc 2018/04/06 v1.3b Input encoding file
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tex-gyre/tgbonum.sty
 Package: tgbonum 2009/09/27 v1.2 TeX Gyre Bonum as default roman family
 )
-(./readings_ecophys_sp2023.aux)
-\openout1 = `readings_ecophys_sp2023.aux'.
+No file miniquiz4_02.09.2023.aux.
+\openout1 = `miniquiz4_02.09.2023.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Try loading font information for T1+qbk on input line 31.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for T1+qbk on input line 33.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tex-gyre/t1qbk.fd
 File: t1qbk.fd 2009/09/25 v1.2 font definition file for T1/qbk
 )
@@ -289,7 +288,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 33.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -299,133 +298,64 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count107
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
-
-(./readings_ecophys_sp2023.out) (./readings_ecophys_sp2023.out)
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
 \@outlinefile=\write3
-\openout3 = `readings_ecophys_sp2023.out'.
+\openout3 = `miniquiz4_02.09.2023.out'.
 
-LaTeX Font Info:    Try loading font information for T1+phv on input line 33.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 35.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 36.
+(Font)              <14.4> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 36.
+(Font)              <7> on input line 38.
 
 
 LaTeX Warning: No \author given.
 
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 46.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 46.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 46.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 46.
-
-Overfull \hbox (50.56429pt too wide) in paragraph at lines 51--52
-[][]$\T1/cmtt/m/n/12 https : / / besjournals . onlinelibrary . wiley . com / do
-i / 10 . 1111 / 1365-[]2745 . 12211$[] 
- []
-
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-! Misplaced alignment tab character &.
-l.61 Wang, Z., Wang, C., &
-                           Liu, S. (2022). Elevated CO2 alleviates adverse e...
-
-? 
-
-Overfull \hbox (20.56429pt too wide) in paragraph at lines 64--65
-[][]$\T1/cmtt/m/n/12 https : / / besjournals . onlinelibrary . wiley . com / do
-i / full / 10 . 1111 / 1365-[]2745 .
- []
-
-
-Overfull \hbox (37.7173pt too wide) in paragraph at lines 70--71
-[][]$\T1/cmtt/m/n/12 https : / / www . annualreviews . org / doi / 10 . 1146 / 
-annurev . pp . 28 . 060177 . 002035$[] 
- []
-
-! Misplaced alignment tab character &.
-l.74 their signaling networks. Seminars in Cell &
-                                                  Developmental Biology 92, ...
-
-? 
-
-Overfull \hbox (25.37032pt too wide) in paragraph at lines 75--76
-[][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / science / article 
-/ pii / S1084952117305748$[] 
- []
-
-
-Overfull \hbox (25.37032pt too wide) in paragraph at lines 81--82
-[][]$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / science / article 
-/ pii / S1360138503001365$[] 
- []
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
 
 [2]
-Overfull \hbox (37.7173pt too wide) in paragraph at lines 106--107
-[][]$\T1/cmtt/m/n/12 https : / / www . annualreviews . org / doi / 10 . 1146 / 
-annurev . es . 21 . 110190 . 001123$[] 
- []
-
-[3]
-Overfull \hbox (8.2173pt too wide) in paragraph at lines 116--117
-[][]$\T1/cmtt/m/n/12 https : / / esajournals . onlinelibrary . wiley . com / do
-i / full / 10 . 1890 / 06-[]2057 .
- []
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
+ (./miniquiz4_02.09.2023.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
 
 
-Overfull \hbox (37.7173pt too wide) in paragraph at lines 129--130
-[][]$\T1/cmtt/m/n/12 https : / / www . annualreviews . org / doi / 10 . 1146 / 
-annurev . es . 03 . 110172 . 001531$[] 
- []
+Package rerunfilecheck Warning: File `miniquiz4_02.09.2023.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
- (./readings_ecophys_sp2023.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
-Package rerunfilecheck Info: File `readings_ecophys_sp2023.out' has not changed
-.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
+Package rerunfilecheck Info: Checksums for `miniquiz4_02.09.2023.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  BAE98D6F56BE6A7C8051CA69F7895046;441.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
  ) 
 Here is how much of TeX's memory you used:
- 5801 strings out of 492649
- 85959 string characters out of 6129622
- 178634 words of memory out of 5000000
- 9612 multiletter control sequences out of 15000+600000
- 30977 words of font info for 40 fonts, out of 8000000 for 9000
+ 5741 strings out of 492649
+ 84798 string characters out of 6129622
+ 175531 words of memory out of 5000000
+ 9587 multiletter control sequences out of 15000+600000
+ 27111 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,25p,262b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,29p,696b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/l
-ocal/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/loc
-al/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018
-/texmf-dist/fonts/type1/public/tex-gyre/qbkb.pfb></usr/local/texlive/2018/texmf
--dist/fonts/type1/public/tex-gyre/qbkr.pfb></usr/local/texlive/2018/texmf-dist/
-fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2018/texmf-dist/fo
-nts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
-e1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/
-helvetic/uhvro8a.pfb>
-Output written on readings_ecophys_sp2023.pdf (5 pages, 106241 bytes).
+ocal/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/20
+18/texmf-dist/fonts/type1/public/tex-gyre/qbkb.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/public/tex-gyre/qbkr.pfb></usr/local/texlive/2018/texmf-dis
+t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/urw/helvetic/uhvr8a.pfb>
+Output written on miniquiz4_02.09.2023.pdf (2 pages, 58909 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
+ 38 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

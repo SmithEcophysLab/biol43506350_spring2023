@@ -13,7 +13,7 @@
 4. Discussion of Atkin and Tjoelker (2003)
 
 ## Homework
-- Read TBD. The full citation and link can be found in the 
+- Read Posch et al. (2019). The full citation and link can be found in the 
 [Readings](../readings) folder.
 	- complete feedback
 - Complete Miniquiz 2, 3, and 4 

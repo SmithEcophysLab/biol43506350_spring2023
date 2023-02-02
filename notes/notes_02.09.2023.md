@@ -7,7 +7,7 @@
 1. Discuss schedule changes
 2. Discussion of Paik and Huq (2019)
 	- leads: Ricardo, Karsen, Elizabeth, Diamond, Jacob, Cameron
-3. Discussion of TBD
+3. Discussion of Posch et al. (2019)
 	- leads: Eva and Pawan
 
 ## Homework
