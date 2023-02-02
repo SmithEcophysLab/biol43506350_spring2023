@@ -19,3 +19,6 @@
 ## In-class notes
 
 ## Post class notes
+- class cancelled due to weather, will do:
+	- topic lead next week Thursday
+	- have miniquiz due Feb 14

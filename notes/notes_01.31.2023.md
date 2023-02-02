@@ -8,7 +8,7 @@ light availability, including differences in plant traits
 
 ## Agenda
 1. Finish lecture on plant gas exchange basics
-	- [Link to slides](../lecture_slides/slides_01.24.2023.pdf
+	- [Link to slides](../lecture_slides/slides_01.24.2023.pdf)
 2. Lecture on light
 	- [Link to lecture slides](../lecture_slides/slides_01.31.2023.pdf)
 3. Discussion of Boardman (1977)
