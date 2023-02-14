@@ -12,10 +12,11 @@
 	- grading will get more strict on these as the semester progresses
 2. Finish lecture on temperature
 	- [Link to lecture slides](../lecture_slides/slides_02.07.2023.pdf)
-3. Lecture on water
+3. Discussion of miniquizzes??
+4. Lecture on water
 	- [Link to lecture slides](../lecture_slides/slides_02.14.2023.pdf)
-4. (time permitting) Discussion of Chaves
-5. (time permitting) Share literature review ideas
+5. (time permitting) Discussion of Chaves
+6. (time permitting) Share literature review ideas
 
 ## Homework
 - Read Zhao et al. (2021). The full citation and link can be found in the 
