@@ -4,7 +4,9 @@
 - Continue discussing water
 
 ## Agenda
-1. Miniquiz 5
+1. Finish up water lecture
+	- [Link to lecture slides](../lecture_slides/slides_02.14.2023.pdf)
+2. Miniquiz 5
 	- [link to miniquiz 5](../miniquizzes/miniquiz5_02.16.2023.pdf)
 2. Discussion of Zhao et al. (2021)
 	- leads: Madison and Rafael
