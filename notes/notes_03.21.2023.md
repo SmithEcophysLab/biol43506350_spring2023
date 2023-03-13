@@ -19,7 +19,7 @@
 	- proposals due next week!
 	- [link to literature review proposal information](../lit_review_proposal/review_proposal_information.md)
 	- [link to literature review proposal rubric](../rubrics/review_proposal_rubric.md)
-	- [link to literature review proposal schedule](../lit_review_proposal/review_proposal_schdule.md)
+	- [link to literature review proposal schedule](../lit_review_proposal/review_proposal_schedule.md)
 
 ## In-class notes
 
