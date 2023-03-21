@@ -36,4 +36,4 @@ The written proposal should include the following aspects:
 	- This section should be 1-2 paragraphs.
 
 ### Due date
-March 23 at 9:30 AM (please email written proposal to [Evan](mailto:evan.a.perkowski@ttu.edu))
+March 30 at 9:30 AM (bring to class or email to Nick)
