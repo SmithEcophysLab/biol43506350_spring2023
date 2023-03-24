@@ -7,8 +7,8 @@ feedback on the written and oral proposal. The class will provide feedback on th
 oral proposal. Dr. Smith will collate all student feedback for each student or group.
 
 ### Format
-The format will consist of a short written proposal (2-3 pages) and short oral presentation
-on the proposal (~5 minutes). More information can be found in the [rubric](../Rubrics/review_proposal_rubric.md).
+The format will consist of a short written proposal (1-2 pages) and short oral presentation
+on the proposal (~5 minutes). More information can be found in the [rubric](../rubrics/review_proposal_rubric.md).
 
 ### Grading
 Both the written and oral proposal will be graded. Please refer to the 

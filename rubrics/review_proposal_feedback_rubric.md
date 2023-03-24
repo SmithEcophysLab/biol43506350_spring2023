@@ -36,4 +36,4 @@ You should not assign a grade as part of your feedback.**
 	proposal that you found most exciting and the aspect you felt could be most improved.
 	
 ### Due date
-April 6 at 9:30 AM (please email written proposal to [Evan](mailto:evan.a.perkowski@ttu.edu))
+April 13 at 9:30 AM
