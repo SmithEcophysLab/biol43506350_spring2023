@@ -3,15 +3,14 @@ The purpose of the review paper proposal is to write up your idea
 as a way to receive feedback and, ultimately, improve your project.
 This will involve a short, written idea for the review. The proposal will be
 reviewed by Dr. Smith and a student (grads) or group (undergrads) in the class. 
-**Because of the schedule changes there will be no presentations**
 
 Please refer to the [literature review description]('../Literature_Review/literature_review_description.md')
 for further assistance.
 
 ## Grading rubric (100 points total)
-- Written proposal (100 points)
+- Written proposal and presentation (100 points)
 
-### Written proposal (suggested length: 1-2 pages)
+### Written proposal (suggested length: 1-2 pages) and presentation (~5 minutes)
 The written proposal should include the following aspects:
 1. Title of the review (5 points)
 	- title that explains the main theme of the review
