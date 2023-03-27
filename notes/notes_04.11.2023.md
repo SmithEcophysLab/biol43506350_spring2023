@@ -1,16 +1,14 @@
-# Notes for class on March 30, 2023
+# Notes for class on April 11, 2023
 
 ## Objectives
-- Day 2 of literature review presentations
+- Begin discussing plant competition
 
 ## Agenda
-1. Literature review presentations
-	- [link to literature review proposal schedule](../lit_review_proposal/review_proposal_schdule.md)
+1. Lecture on plant competition
+	- [link to lecture slides](../lecture_slides/slides_04.11.2023.pdf)
 
 ## Homework
-- Read Grime (1977). The full citation and link can be found in the 
-[Readings](../readings) folder.
-	- complete feedback
+- Read TBD
 - Complete literature review proposal critique of classmate
 	- [link to literature review proposal feedback rubric](../rubrics/review_proposal_feedback_rubric.md)
 	- Due April 13
