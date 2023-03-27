@@ -33,6 +33,8 @@ The written proposal should include the following aspects:
 	- What are you're intended main components?
 	- What search terms will you use to find papers?
 	- This section should be 1-2 paragraphs.
+These aspects should be briefly explained in the presentation. The grading will be done
+for all content included in the both the written document and presentation.
 
 ### Due date
 March 30 at 9:30 AM (bring to class or email to Nick)
