@@ -1,18 +1,10 @@
-# Notes for class on April 13, 2023
+# Notes for class on April 25, 2023
 
-## Objectives
-- Continue discussing plant competition
-
-## Agenda
-1. Miniquiz 9
-	- [link to Miniquiz 9](../miniquizzes/miniquiz9_04.13.2023.pdf)
-2. Discussion of Lekberg et al. (2018)
-	- Lead: Alex B.
+NO CLASS; SCHEDULED DAY OFF
 
 ## Homework
 - Work on literature review
 	- [link to literature review rubric](../rubrics/review_rubric.md)
-	- presentations begin next week!
 	- [link to literature review presentation schedule](../lit_review/review_presentation_schedule.md)
 	- Written review due 9:30 AM on May 4, 2023
 
