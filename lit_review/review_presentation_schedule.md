@@ -13,6 +13,7 @@
 3. Monika
 4. Pawan
 5. Hannah
+6. Diamond
 
 ## Tuesday, May 2
 1. Ricardo, Karsen, Derrick, Elizabeth
